@@ -13,3 +13,5 @@ Mongo DB:
 
 Postman
 	- Alexanderkandelberg, 81
+
+Start by "npm start"
